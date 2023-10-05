@@ -1,12 +1,13 @@
-ABOUT wwwxsv19
+<h1>ABOUT wwwxsv19</h1>
 
-GITHUB ; wwwxsv19
-Instagram ; @wwwxsv19
-Notion ; wwwxsv19
+| GITHUB | Gmail | Instagram | => @wwwxsv19
 
-Gmail ; wwwxsv19@gmail.com
-Discode ; wxhmk
+| Discode | => wxhmk
 
-부산소프트웨어마이스터고등학교 재학 중.
+| Notion | => wwwxsv19<br>
+| Velog | => @2023026
 
+부산소프트웨어마이스터고등학교 3기 ( 재학 중. )
+<br>
+<br>
 감사합니다. Thx! 😘
