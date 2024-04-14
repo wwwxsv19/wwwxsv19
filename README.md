@@ -4,9 +4,9 @@
 <br>
 
 ## Tech Stack
-Javascript Java C/C++ Python
-Node.js SpringBoot Unity
-Figma Framer Github
+Javascript Java C/C++ Python<br>
+Node.js SpringBoot Unity<br>
+Figma Framer Github<br>
 
 ## Link
 [| Insta |](https://www.instagram.com/wwwxsv19/) 깔끔한 일상생활과 활동 이력들이 올라옵니다. <br> 
