@@ -4,12 +4,12 @@
 <br>
 
 ## Tech Stack
-Javascript Java C/C++ Python<br>
-Node.js SpringBoot Unity<br>
+Javascript Java C Dart Python<br>
+Node.js SpringBoot Flutter Unity<br>
 Figma Framer Github<br>
 
 ## Link
-[| Insta |](https://www.instagram.com/wwwxsv19/) 깔끔한 일상생활과 활동 이력들이 올라옵니다. <br> 
+[| Insta |](https://www.instagram.com/wwwxsv19/) 연락망 ( 인스타 DM ) 입니다. <br> 
 [| Notion |](https://wwwxsv19.notion.site/6cde9fd8fdf44671bddbff17b942e4e6) 온라인 포트폴리오입니다. <br>
 [| Velog |](https://velog.io/@2023026) 공부 내용을 꾸준히 업로드하고 있습니다. <br>
 <br>
